@@ -8,7 +8,7 @@ Uproszoczna forma generowanie metamodułów bezpośrednio z chatGPT do budowania
 
 
 Podaj w punktach komendy oparte o język DSL dopasowany do zautomatyzowanego twporzenia usług SaaS online w technologiach html, js, css, api
-
+```
 1. Stwórz szablony HTML, CSS i JavaScript: Użyj szablonów, aby szybko i łatwo tworzyć witryny internetowe i aplikacje.
 
 2. Użyj języka DSL: Użyj języka DSL do tworzenia własnych usług SaaS.
@@ -24,10 +24,11 @@ Podaj w punktach komendy oparte o język DSL dopasowany do zautomatyzowanego twp
 7. Integruj usługi z innymi aplikacjami: Umożliw integrację usług SaaS z innymi aplikacjami i usługami.
 
 8. Użyj narzędzi do optymalizacji: Użyj narzędzi do optymalizacji, aby zwiększyć wydajność i elastyczność.
-
+```
 
 Zapisz tę specyfikację w formacie json jako metamoduł SaaS
 
+```json
 {
     "name": "SaaS Module",
     "description": "A SaaS module that allows for automated creation of services using HTML, JavaScript, CSS, and API.",
@@ -62,3 +63,4 @@ Zapisz tę specyfikację w formacie json jako metamoduł SaaS
         }
     ]
 }
+```
